@@ -1,0 +1,21 @@
+* ClojureBridge logo design ideas
+
+Design ideas for a new ClojureBridge logo, inspired by the newer designs for Rails Bridge and Go Bridge.
+
+
+[[file:clojurebridge-logo-modern-designs.png][ClojureBridge - modern logo designs]]
+
+From the initial designs, I prefer the following
+
+
+** ClojureBridge Logo - modern
+
+[[file:clojurebridge-logo-modern-bridge.png][ClojureBridge - modern logo]]
+
+    This logo could be used for any Bridge chapter across the world.
+
+** ClojureBridge London Logo - modern
+
+[[file:clojurebridge-london-logo-modern.png][ClojureBridge London - modern logo designs]]
+
+    Bridge Chapters could modify this logo and replace London with their city or region, making the logo unique to that place and yet still be part of the ClojureBridge overall design.
