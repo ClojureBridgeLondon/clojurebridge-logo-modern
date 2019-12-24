@@ -1,23 +1,28 @@
 * ClojureBridge logo design ideas
 
+A modern take on a logo for ClojureBridge events, currently used for ClojureBridge London.
+
+All designs are under a [[https://creativecommons.org/][Creative Commons Attribution licence]].  Please refer to this repository if you publish any modifications to these files.
+
+** ClojureBridge Logo - modern
+
+This logo can be used for any ClojureBridge chapter across the world.
+
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[clojurebridge-logo-modern.png]]
+
+
+** ClojureBridge London Logo - modern
+
+Bridge Chapters can modify this logo and replace London with their city or region, making the logo unique to that place and yet still be part of the ClojureBridge overall design.
+
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[clojurebridge-logo-modern-london.png]]
+
+
+** Design evolution
+
 Design ideas for a new ClojureBridge logo, inspired by the newer designs for Rails Bridge and Go Bridge.
 
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[clojurebridge-logo-modern-designs.png]]
-
-From the initial designs, I prefer the following
-
-
-** ClojureBridge Logo - modern
-
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[clojurebridge-logo-modern-bridge.png]]
-
-    This logo could be used for any Bridge chapter across the world.
-
-** ClojureBridge London Logo - modern
-
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[clojurebridge-london-logo-modern.png]]
-
-    Bridge Chapters could modify this logo and replace London with their city or region, making the logo unique to that place and yet still be part of the ClojureBridge overall design.
